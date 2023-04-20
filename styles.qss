@@ -1,0 +1,8 @@
+QLabel {    
+    background-color: red;
+}
+
+QLineEdit#lbl_mensaje {
+    color: orange;
+    background-color: green;
+}
